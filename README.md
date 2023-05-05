@@ -24,8 +24,8 @@ Para compilar el proyecto, escriba:
 
 ###  Ejecutar el proyecto
 
-PAhora podemos ejecutar el proyecto.
-	```sh
+Ahora podemos ejecutar el proyecto.
+```sh
 docker compose up flask_app
   ```
 
