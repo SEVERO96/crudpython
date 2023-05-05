@@ -12,9 +12,9 @@ docker compose logs
   ```
 y el
 
-	```sh
-	docker ps -a
-	```
+```sh
+docker ps -a
+```
 ### Construye el proyecto
 
 Para compilar el proyecto, escriba:
@@ -29,8 +29,8 @@ PAhora podemos ejecutar el proyecto.
 docker compose up flask_app
   ```
 
-
 ### Probar el proyecto
+
 apis crud USERS
 - POST request to localhost:4000/users
 - GET request to localhost:4000/users
